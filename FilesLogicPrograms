@@ -1,0 +1,11 @@
+C program to find number of lines in a file.
+This program will read a file and find the total number of file in it using C program.
+C program to create, open and close a file.
+This C file handling program will create, open a file and then close the file.
+C program to write text (characters) into file and print.
+This C file handling program will create a file in write mode and write the text characters (character by character) into the file and then read character by character from the file.
+C program to print given number of lines of a file (like head command in Linux).
+This C file handling program will print the number of lines (passed through the command line argument) on the output screen, just like a HEAD command in linux.
+C program to print contents in reverse order of a file (just like TAC command in Linux).
+This C program will print the content of the file in reverse order, just like TAC command in Linux.
+C program to compare contents of two files.
